@@ -1,4 +1,4 @@
-# CodeClauseInternship_Market-Basket-Analysis-in-Python-using-Apriori-Algorithm
+# Market-Basket-Analysis-in-Python-using-Apriori-Algorithm
 <h1>Market-Basket-Analysis-in-Python-using-Apriori-Algorithm</h1>
 
 <h3>Name of Project-</h3>
